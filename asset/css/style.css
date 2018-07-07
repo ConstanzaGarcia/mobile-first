@@ -1,8 +1,29 @@
 #titulo {
     text-align: center;
+    padding: 10px 5px;
+}
+
+.formulario {
+    background-color: #FA8072;
+    text-align: left;
+    padding: 4%;
 }
 
 footer {
-    background-color: #FA8072;
+    background-color: white;
     text-align: center;
+    padding: 2%;
+}
+
+#btnenviar {
+    background-color: white;
+    color: black;
+}
+
+.iconos {
+    padding: 3px;
+}
+
+.galeria {
+    padding: 5px;
 }
